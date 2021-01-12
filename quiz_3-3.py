@@ -21,7 +21,7 @@ def clone_maker():
         elif user == 'y':
             print(clone_maker())
         else:
-            break
+            print("Alright commander.")
 
 
 clone_maker()
